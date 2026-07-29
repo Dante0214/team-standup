@@ -1,0 +1,10 @@
+{
+  "name": "team-standup",
+  "description": "Daily standup prep from git and GitHub. Summarizes yesterday's commits and PRs, then reports today's branch state and what's in flight.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dante0214",
+    "url": "https://github.com/Dante0214"
+  },
+  "keywords": ["standup", "scrum", "git", "team", "report"]
+}

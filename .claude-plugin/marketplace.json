@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "team-standup",
+  "description": "Daily standup prep for teams — yesterday's commits and PRs, today's branch state.",
+  "owner": {
+    "name": "Dante0214",
+    "url": "https://github.com/Dante0214"
+  },
+  "plugins": [
+    {
+      "name": "team-standup",
+      "description": "Turn git and GitHub state into a daily standup report. Yesterday's work from commits and PRs, today's status from branch state.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
