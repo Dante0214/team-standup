@@ -9,7 +9,7 @@ Daily standup prep for Claude Code. Reads git and GitHub, writes the report you'
 ## Install
 
 ```
-/plugin marketplace add <owner>/team-standup
+/plugin marketplace add Dante0214/team-standup
 /plugin install team-standup@team-standup
 ```
 
